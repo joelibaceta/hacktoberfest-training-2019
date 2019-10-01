@@ -19,3 +19,6 @@ How to contribute:
 ## Results
 
 ![Languages](/output/pie_0.png)
+![Languages](/output/pie_1.png)
+![Languages](/output/pie_2.png)
+![Languages](/output/pie_3.png)
