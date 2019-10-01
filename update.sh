@@ -3,6 +3,9 @@ echo "Pushing..."
 git clone https://joelibaceta:${GITHUB_TOKEN}@github.com/joelibaceta/hacktoberfest-2019.git
 
 cd hacktoberfest-2019
+
+echo pwd
+
 git add .
 git commit -m "updating plots" 
 
