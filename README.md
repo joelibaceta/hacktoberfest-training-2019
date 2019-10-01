@@ -14,7 +14,7 @@ How to contribute:
 
 4. make a PR, and mention this [issue](https://github.com/joelibaceta/hacktoberfest-2019/issues/2),  happy coding!
 
-> Let me an star if you like this repo :D
+5. Let me an star :star: if you like this repo :D
 
 
 <br/><br/>
