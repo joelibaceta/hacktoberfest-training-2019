@@ -2,6 +2,7 @@
 echo "Pushing..."
 git add .
 git commit -m "updating plots"
-git remote add virtual https://joelibaceta:${GITHUB_TOKEN}@github.com/joelibaceta/hacktoberfest-2019.git
-git pull virtual gh-pages
-git push -u -f virtual gh-pages
+git remote remove origin
+git remote add origin https://joelibaceta:${GITHUB_TOKEN}@github.com/joelibaceta/hacktoberfest-2019.git
+git pull origin gh-pages
+git push -u -f origin gh-pages
