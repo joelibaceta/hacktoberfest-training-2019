@@ -13,3 +13,7 @@ How to contribute:
 ```
 
 4. make a PR, happy coding!
+
+## Results
+
+![Languages](/output/pie_0.png)
