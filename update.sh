@@ -4,4 +4,4 @@ git remote add virtual https://${GITHUB_TOKEN}@github.com/joelibaceta/hacktoberf
 git add .
 git commit -m "updating plots"
 git pull virtual master
-git push virtual images
+git push -f virtual images
