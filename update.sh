@@ -4,7 +4,7 @@ git clone https://joelibaceta:${GITHUB_TOKEN}@github.com/joelibaceta/hacktoberfe
 
 cd hacktoberfest-2019
 
-echo pwd
+echo ${pwd}
 
 git add .
 git commit -m "updating plots" 
