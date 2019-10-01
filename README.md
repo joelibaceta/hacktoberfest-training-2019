@@ -14,6 +14,8 @@ How to contribute:
 
 4. make a PR, and mention this [issue](https://github.com/joelibaceta/hacktoberfest-2019/issues/2),  happy coding!
 
+> Let me an star if you like this repo :D
+
 ## Results
 
 ![Languages](/output/pie_0.png)
