@@ -4,9 +4,7 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
     - name: Set up Python 3.7
@@ -18,7 +16,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Generate new plots
-      run: python ploy.py
-    - name: Pushing changes
-      run: sh update.sh
+      run: python plot.py
+    # - name: Pushing changes
+    #   run: sh update.sh
     
