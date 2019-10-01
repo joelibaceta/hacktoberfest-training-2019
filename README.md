@@ -12,7 +12,7 @@ How to contribute:
 | Main Programming Language | Operating System | IDE or Editor | Country | Age | 
 ```
 
-4. make a PR, happy coding!
+4. make a PR, and mention this [issue](https://github.com/joelibaceta/hacktoberfest-2019/issues/2)  happy coding!
 
 ## Results
 
