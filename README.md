@@ -6,7 +6,7 @@ How to contribute:
 
 1. Fork this repo
 2. Add your name to contributors.md
-3. Add a simple line in survey.md with your responses according to next structure
+3. Add a simple line in survey.csv with your responses according to next structure
 
 ```
 | Main Programming Language | Operating System | IDE or Editor | Country | Age | 
