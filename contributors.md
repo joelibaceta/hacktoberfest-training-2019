@@ -1,5 +1,6 @@
 ## Contributors
 
+- Shivam Goyal
 - Ethan Massie
 - sparshag21
 - mike4233
