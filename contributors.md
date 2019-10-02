@@ -40,3 +40,4 @@
 - chrisaandes
 - khvilaboa
 - mad
+- Vishy
