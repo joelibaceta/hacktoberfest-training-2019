@@ -11,6 +11,7 @@
 - Oswld
 - MrToastMachine
 - zbouvier
+- [Shankhadeep Dey](https://github.com/Iamshankhadeep)
 - Mxcul1
 - MrToastMachine
 - Nguyen Tuan Vu
