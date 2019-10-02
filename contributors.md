@@ -1,5 +1,6 @@
 ## Contributors
 
+- Shivam Goyal
 - Ethan Massie
 - sparshag21
 - mike4233
@@ -33,3 +34,4 @@
 - Abhinav Bhatt
 - Aman Jain
 - orama254
+- Jpegx100

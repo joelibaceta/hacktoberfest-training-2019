@@ -1,6 +1,10 @@
 # Welcome to HacktoberFest 2019!
 
-If this is your first Hacktoberfest I invite you to participate by sending a PR to this repo, the objective is to add your name to this repo and solve a small survey.
+> This initiative [was banned by Hacktoberfest](https://github.com/joelibaceta/hacktoberfest-training-2019/issues/43) apparently novice contributions are no longer accepted at the event, thanks for your contributions  :cop: :bow:
+
+<br/>
+
+~~If this is your first Hacktoberfest I invite you to participate by sending a PR to this repo, the objective is to add your name to this repo and solve a small survey.~~
 
 How to contribute:
 
