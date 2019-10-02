@@ -1,6 +1,6 @@
 # Welcome to HacktoberFest 2019!
 
-> This initiative was banned by Hacktoberfestm apparently novice contributions are no longer accepted at the event, thanks for your contributions  :cop: :bow:
+> This initiative [was banned by Hacktoberfest](https://github.com/joelibaceta/hacktoberfest-training-2019/issues/43) apparently novice contributions are no longer accepted at the event, thanks for your contributions  :cop: :bow:
 
 <br/>
 
