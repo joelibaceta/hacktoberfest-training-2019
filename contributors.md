@@ -36,3 +36,5 @@
 - orama254
 - Jpegx100
 - Dmytro
+- chrisaandes
+- khvilaboa
