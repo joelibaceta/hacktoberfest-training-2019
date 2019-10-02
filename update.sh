@@ -1,13 +1,13 @@
 #!/bin/sh
 echo "Pushing..."
-git clone https://joelibaceta:${GITHUB_TOKEN}@github.com/joelibaceta/hacktoberfest-2019.git
+#git clone https://joelibaceta:${GITHUB_TOKEN}@github.com/joelibaceta/hacktoberfest-2019.git
 
-cd hacktoberfest-2019
+#cd hacktoberfest-2019
 
 echo ${pwd}
 
-git add .
-git commit -m "updating plots" 
+#git add .
+#git commit -m "updating plots" 
 
 #git config --global user.name "bot"
 #git config --global user.email "bot@github.com"
