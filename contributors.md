@@ -39,4 +39,8 @@
 - Dmytro
 - chrisaandes
 - khvilaboa
-- Tim Mardesen *tg-mardesen@wiu.edu* `timmay54`
+- timmay54
+- paulsen
+- Sandro Pirtskhalava
+- mad
+- Vishy
