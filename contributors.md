@@ -40,3 +40,6 @@
 - chrisaandes
 - khvilaboa
 - paulsen
+- Sandro Pirtskhalava
+- mad
+- Vishy
