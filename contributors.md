@@ -11,11 +11,12 @@
 - Oswld
 - MrToastMachine
 - zbouvier
-- [Shankhadeep Dey](https://github.com/Iamshankhadeep)
+- Iamshankhadeep
 - Mxcul1
 - MrToastMachine
 - Nguyen Tuan Vu
 - parshant
+- howlan
 - lutir
 - Overcooked Panda
 - Harsh-D
@@ -27,3 +28,7 @@
 - Holly
 - Divy Ranjan
 - ivang11
+- victox5
+- Naren
+- Abhinav Bhatt
+- Aman Jain
