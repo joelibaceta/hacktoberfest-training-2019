@@ -21,3 +21,5 @@
 - adgai
 - Rodolfo
 - tombasche
+- gndx
+- jeanpaul1304
