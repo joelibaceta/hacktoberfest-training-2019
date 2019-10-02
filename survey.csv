@@ -5,7 +5,7 @@ PHP,   Windows,    PHP Storm,    Peru,18
 Java,   Windows,    IntelliJ,    Peru,25
 Rust,   Linux,    VS Code,    Peru,29
 Ruby,   Linux,    VS Code,    Peru,30
-Python, MacOS, Atom, Brasil,22
+Python, MacOS, Atom, Brazil,22
 JavaScript, Windows, VS Code, Norway,37
 Elixir, Linux, VS Code, US,22
 Python, Linux, Vs Code, India, 21
@@ -26,7 +26,7 @@ Python, Linux, VS Code, USA,33
 Java, Windows, VS Code, Mexico,20
 Python, Linux, Sublime Text, Ireland,19
 Python,Windows, VS Code,Australia,23
-Python, Linux, VS Code, VietNam, 20
+Python, Linux, VS Code, Vietnam, 20
 Python, Linux, VS Code, India, 19
 C++, Linux, VS Code, India, 22
 Bash, Linux, IntelliJ, USA, 99
@@ -38,3 +38,5 @@ JavaScript, Windows, Sublime Text, USA, 31
 Javascript, Mac, Web Storm, Peru, 27
 JavaScript, MacOS, VS Code, Colombia, 32
 C++, Ubuntu, VS Code, India, 22
+Javascript, MacOS, Web Storm, Peru, 27
+JavaScript, MacOS, VS Code, Colombia, 32
