@@ -39,3 +39,4 @@
 - Dmytro
 - chrisaandes
 - khvilaboa
+- Tim Mardesen *tg-mardesen@wiu.edu* `timmay54`
