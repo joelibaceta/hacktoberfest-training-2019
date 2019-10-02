@@ -11,7 +11,7 @@
 - Oswld
 - MrToastMachine
 - zbouvier
-- [Shankhadeep Dey](https://github.com/Iamshankhadeep)
+- Iamshankhadeep
 - Mxcul1
 - MrToastMachine
 - Nguyen Tuan Vu
@@ -27,6 +27,7 @@
 - jeanpaul1304
 - Holly
 - Divy Ranjan
+- victox5
 - Naren
 - Abhinav Bhatt
 - Aman Jain
