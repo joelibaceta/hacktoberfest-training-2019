@@ -2,6 +2,8 @@
 
 > This initiative was banned by Hacktoberfestm apparently novice contributions are no longer accepted at the event  :cop: :bow:
 
+<br/>
+
 If this is your first Hacktoberfest I invite you to participate by sending a PR to this repo, the objective is to add your name to this repo and solve a small survey.
 
 How to contribute:
