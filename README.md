@@ -1,6 +1,6 @@
 # Welcome to HacktoberFest 2019!
 
-If this is your first hacktoberfest I invite you to participate by sending a PR to this repo, the objective is to add your name to this repo and solve a small survey.
+If this is your first Hacktoberfest I invite you to participate by sending a PR to this repo, the objective is to add your name to this repo and solve a small survey.
 
 How to contribute:
 
