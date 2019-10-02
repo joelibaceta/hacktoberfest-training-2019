@@ -39,6 +39,7 @@
 - Dmytro
 - chrisaandes
 - khvilaboa
+- timmay54
 - paulsen
 - Sandro Pirtskhalava
 - mad
