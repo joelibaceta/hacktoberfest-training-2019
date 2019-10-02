@@ -35,4 +35,5 @@
 - Aman Jain
 - orama254
 - Jpegx100
+- chrisaandes
 - khvilaboa
