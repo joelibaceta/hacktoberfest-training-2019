@@ -25,7 +25,7 @@ How to contribute:
 
 ## Results
 
-![Languages](/output/pie_09.png?random=1)
-![Languages](/output/pie_19.png?random=1)
-![Languages](/output/pie_29.png?random=1)
-![Languages](/output/pie_39.png?random=1)
+![Languages](/output/pie_00.png?random=1)
+![Languages](/output/pie_10.png?random=1)
+![Languages](/output/pie_20.png?random=1)
+![Languages](/output/pie_30.png?random=1)
