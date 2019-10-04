@@ -47,3 +47,4 @@
 - batmaniNRobin
 - viewless
 - brunomuriel
+- Shawen Sallace
