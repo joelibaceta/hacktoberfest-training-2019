@@ -46,3 +46,4 @@
 - Vishy
 - batmaniNRobin
 - viewless
+- brunomuriel
