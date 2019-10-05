@@ -50,3 +50,4 @@
 - Shawen Sallace
 - Mitasha Dongre
 - Lynin Sokhonn
+- Kim Kinal
