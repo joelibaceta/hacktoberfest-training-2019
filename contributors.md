@@ -49,3 +49,4 @@
 - brunomuriel
 - Shawen Sallace
 - Mitasha Dongre
+- Kim Kinal
