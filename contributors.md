@@ -51,3 +51,4 @@
 - Mitasha Dongre
 - Lynin Sokhonn
 - Kim Kinal
+- Rachit Nagwani
