@@ -56,3 +56,5 @@
 - Dilshan Ramesh
 - Jedsada Tiwongvorakul
 - Nishanth Molleti
+- Camilo Caquimbo
+- Gabriel Vargas
