@@ -59,3 +59,4 @@
 - Nishanth Molleti
 - Camilo Caquimbo
 - Gabriel Vargas
+- Osiris
