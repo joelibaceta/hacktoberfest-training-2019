@@ -59,5 +59,6 @@
 - Nishanth Molleti
 - Camilo Caquimbo
 - Gabriel Vargas
+- Osiris
 - Caption
 - Luana Brasil
