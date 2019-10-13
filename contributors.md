@@ -60,3 +60,4 @@
 - Camilo Caquimbo
 - Gabriel Vargas
 - Caption
+- Luana Brasil
