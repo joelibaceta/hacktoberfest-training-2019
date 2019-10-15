@@ -62,3 +62,4 @@
 - Osiris
 - Caption
 - Luana Brasil
+- Ricky Singh
