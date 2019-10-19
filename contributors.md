@@ -64,3 +64,4 @@
 - Luana Brasil
 - Ricky Singh
 - Eidson Sá
+- Aakriti Sharma
