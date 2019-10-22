@@ -65,3 +65,4 @@
 - Ricky Singh
 - Eidson Sá
 - Aakriti Sharma
+- Alexandre Pereira Santos
