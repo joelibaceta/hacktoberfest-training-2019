@@ -67,5 +67,6 @@
 - Aakriti Sharma
 - Alexandre Pereira Santos
 - Immessionate
+- SCBbestof
 - Rachit Khare
 - Fadli
