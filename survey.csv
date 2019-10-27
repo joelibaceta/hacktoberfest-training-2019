@@ -124,10 +124,11 @@ Python, MacOS, PyCharm, Brazil,24
 Python, Windows, Spider, Brazil,24
 Python, Linux, Sublime, Brazil,24
 C++, Linux, Sublime, Brazil,27
-python, windows, python idle,,18
+python, windows, python idle,18,
 Python, Windows, Pycharm, US,18
 Python, Linux, Sublime Text, India,26
 Python,Windows,Spyder,India,19
 Python,Windows,JupyterNotebook,Brasil,38
-JavaScript, Windows,,India,20
-Go,Linux,VS Code,Romania,25
+JavaScript, Windows, India, 20
+Java, Windows, VS Code, India, 21
+PHP, Linux, VS Code, Indonesia, 21
